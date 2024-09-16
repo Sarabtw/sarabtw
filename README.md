@@ -7,12 +7,12 @@
 - <b>Linguagens:</b> C#.
 
 </b>Unidades concluídas:</b>
-</b>[x] Fundamentos da tecnologia;
-</b>[x] Informática aplicada; 
-</b>[x] Lógica de Programação
+</b>[x] Fundamentos da tecnologia;</b>
+</b>[x] Informática aplicada;</b>
+</b>[x] Lógica de Programação</b>
   
 </b>Em andamento:</b>
-</b>[ ] Interface web.
+</b>[ ] Interface web.</b>
 
 
 Forma de contato:
