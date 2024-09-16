@@ -34,7 +34,7 @@ Atualmente adquirindo novas skills com foco em desenvolvimento de sistemas em C#
 <!-- Para quem quiser, são esses os sites https://desenvolvedor.io/ e https://balta.io/ -->
 
 
-<a href="https://instagram.com/sara_monteirox" target="_blank"><img 
+<a href="https://instagram.com/sara_monteirox" target="_blank"><img>
 
 </br>
 
