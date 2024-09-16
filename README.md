@@ -6,8 +6,13 @@
 
 - <b>Linguagens:</b> C#.
 
-- <b>Versionamento:</b> Git.
-
+  ##<b>Unidades concluídas:</b>
+- Fundamentos da tecnologia;
+- Informática aplicada; 
+- Lógica de Programação
+  
+ ##<b>Em andamento:</b>
+- Interface web.
 
 
 Forma de contato:
