@@ -6,19 +6,19 @@
 
 - <b>Linguagens:</b> C#.
 
-  ##Unidades concluídas:</b>
+</b>Unidades concluídas:</b>
 - Fundamentos da tecnologia;
 - Informática aplicada; 
 - Lógica de Programação
   
- ##Em andamento:</b>
+</b>Em andamento:</b>
 - Interface web.
 
 
 Forma de contato:
 
 <!--
-
+z
 Atualmente adquirindo novas skills com foco em desenvolvimento de sistemas em C# e .NET
 
 - [x] C#
