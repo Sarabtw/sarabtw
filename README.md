@@ -24,7 +24,7 @@
 - [ ] Teste de back-end;
 - [ ] Implantação de sistema web;
 - [ ] Projeto de inovação: Mindset empreendedor e prototipação;
-- [ ] Projeto de inovação: Trabalho de conclução de curso.
+- [ ] Projeto de inovação: Trabalho de conclusão de curso.
 
 
 Forma de contato:
@@ -50,7 +50,7 @@ Atualmente adquirindo novas skills com foco em desenvolvimento de sistemas em C#
 <!-- Para quem quiser, são esses os sites https://desenvolvedor.io/ e https://balta.io/ -->
 
 
-<a href="https://instagram.com/sara_monteirox" target="_blank"> img
+<a href="https://instagram.com/sara_monteirox" target="_blank"> instagram
 
 </br>
 
