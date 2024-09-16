@@ -1,6 +1,6 @@
 ### Olá 👋
 
-<b>Estudante</b> de Informática <b>[SENAI - Serviço Nacional de Aprendizagem Industrial]</b>.
+<b>Estudante</b> de Informática na instituição <b>[SENAI - Serviço Nacional de Aprendizagem Industrial]</b>.
 
 <hr>
 
@@ -10,8 +10,7 @@
 
 
 
-
-Para conhecer mais sobre as linguagens, ferramentas e frameworks basta clicar nos ícones abaixo:
+Forma de contato:
 
 <!--
 
