@@ -7,6 +7,7 @@
 - <b>Linguagens:</b> C#.
 
 </b>Unidades Curriculares:</b>
+
  Concluídas
    - [x] Comunicação e redação técnica;
    - [x] Informática aplicada;
