@@ -14,10 +14,10 @@
    - [x] Fundamentos da tecnologia;
    - [x] Lógica de Programação;
    - [x] Projeto de inovação: Processo criativo.
+   - [x] Programação client-side; 
   
 </b>Em andamento:</b>
 - [ ] Interface web;
-- [ ] Programação client-side;
 - [ ] Teste de Front end;
 - [ ] Projeto de inovação: Modelagem de projetos;
 - [ ] Bancos de dados;
