@@ -13,19 +13,19 @@
    - [x] Informática aplicada;
    - [x] Fundamentos da tecnologia;
    - [x] Lógica de Programação;
-   - [x] Projeto de inovação: Processo criativo.
+   - [x] Projeto de inovação: Processo criativo;
    - [x] Programação client-side; 
-  
-</b>Em andamento:</b>
-- [ ] Interface web;
-- [ ] Teste de Front end;
-- [ ] Projeto de inovação: Modelagem de projetos;
-- [ ] Bancos de dados;
-- [ ] Desenvolvimento de sistemas web;
-- [ ] Teste de back-end;
-- [ ] Implantação de sistema web;
-- [ ] Projeto de inovação: Mindset empreendedor e prototipação;
-- [ ] Projeto de inovação: Trabalho de conclusão de curso.
+   - [x] Interface web;
+   - [x] Teste de Front end;
+   - [x] Projeto de inovação: Modelagem de projetos.
+         
+ </b>Em andamento:</b>
+  - [ ] Bancos de dados;
+  - [ ] Desenvolvimento de sistemas web;
+  - [ ] Teste de back-end;
+  - [ ] Implantação de sistema web;
+  - [ ] Projeto de inovação: Mindset empreendedor e prototipação;
+  - [ ] Projeto de inovação: Trabalho de conclusão de curso.
 
 
 Forma de contato:
