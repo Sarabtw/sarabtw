@@ -1,8 +1,8 @@
-### Olá 👋
+### <h1>Olá</h1> 👋
 
 <b>Estudante</b> de Informática na instituição <b>[ SENAI - Serviço Nacional de Aprendizagem Industrial ]</b>.
 
-<hr>
+
 
 - <h2>Linguagens:</h2> C#, HTML.
 
