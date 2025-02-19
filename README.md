@@ -6,9 +6,9 @@
 
 - <h2>Linguagens:</h2> C#, HTML.
 
-<h2>Unidades Curriculares:</h2>
+<h1>Unidades Curriculares:</h1>
 
- <h1>Concluídas:</h1>
+ <h2>Concluídas:</h2>
  
    - [x] Comunicação e redação técnica;
    - [x] Informática aplicada;
@@ -20,7 +20,7 @@
    - [x] Teste de Front end;
    - [x] Projeto de inovação: Modelagem de projetos.
          
- </h1>Em andamento:</h1>
+ <h2>Em andamento:</h2>
  
   - [ ] Bancos de dados;
   - [ ] Desenvolvimento de sistemas web;
@@ -30,7 +30,7 @@
   - [ ] Projeto de inovação: Trabalho de conclusão de curso.
 
 
-Forma de contato:
+<h2>Forma de contato:<h2>
 
 <!--
 z
