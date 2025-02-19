@@ -4,7 +4,7 @@
 
 <hr>
 
-- <b>Linguagens:</b> C#.
+- <h2>Linguagens:</h2> C#, HTML.
 
 </b>Unidades Curriculares:</b>
 
