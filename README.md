@@ -18,11 +18,11 @@
    - [x] Programação client-side; 
    - [x] Interface web;
    - [x] Teste de Front end;
-   - [x] Projeto de inovação: Modelagem de projetos.
+   - [x] Projeto de inovação: Modelagem de projetos;
+   - [X] Bancos de dados.
          
  <h2>Em andamento:</h2>
  
-  - [ ] Bancos de dados;
   - [ ] Desenvolvimento de sistemas web;
   - [ ] Teste de back-end;
   - [ ] Implantação de sistema web;
