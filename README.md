@@ -4,7 +4,7 @@
 
 
 
-- <h2>Linguagens:</h2> C#, HTML.
+- <h2>Linguagens:</h2> C#, HTML, SQL.
 
 <h1>Unidades Curriculares:</h1>
 
